@@ -1,6 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:600");
-@import url("https://fonts.googleapis.com/css?family=Montserrat:800");
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
 body {
   font-family: "Montserrat", sans-serif;
   background: linear-gradient(270deg, #8b1ce6,#b969fa ,#150ecf );

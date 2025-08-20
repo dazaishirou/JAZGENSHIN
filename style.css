@@ -178,7 +178,7 @@ h1.second-name {
 
 .arrow {
   flex: 0 1 75px;
-  background-image: url("https://zephyo.github.io/22Days/code/3/graphics/arrow.svg");
+  background-image: url("");
 }
 
 .right {
@@ -190,7 +190,7 @@ h1.second-name {
 }
 
 .close {
-  background-image: url("https://zephyo.github.io/22Days/code/3/graphics/close.svg");
+  background-image: url("");
   position: absolute;
   top: 5px;
   right: 10px;

@@ -178,7 +178,7 @@ h1.second-name {
 
 .arrow {
   flex: 0 1 75px;
-  background-image: url("");
+  background-image: url();
 }
 
 .right {
@@ -190,7 +190,7 @@ h1.second-name {
 }
 
 .close {
-  background-image: url("");
+  background-image: url();
   position: absolute;
   top: 5px;
   right: 10px;
